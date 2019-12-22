@@ -1,0 +1,41 @@
+{
+  "name": "react-native-form",
+  "version": "1.0.0",
+  "description": "react-native form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15669028801/react-native-form.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-form"
+  ],
+  "author": "hyc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15669028801/react-native-form/issues"
+  },
+  "homepage": "https://github.com/15669028801/react-native-form#readme",
+  "dependencies": {
+    "@types/react": "^16.9.17",
+    "@types/react-native": "^0.60.25",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "nzh": "^1.0.4",
+    "react": "^16.12.0",
+    "react-native": "^0.61.5",
+    "react-native-check-box": "^2.1.7",
+    "react-native-svg": "^9.13.6",
+    "tslib": "^1.10.0",
+    "xdate": "^0.8.2"
+  },
+  "devDependencies": {
+    "react-native-typescript-transformer": "^1.2.13",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4"
+  }
+}

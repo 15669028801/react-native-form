@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "importHelpers": true,
+    "target": "es2015",
+    "jsx": "react",
+    "noEmit": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "experimentalDecorators": true,
+    "noStrictGenericChecks": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
