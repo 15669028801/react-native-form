@@ -23,7 +23,7 @@
   "dependencies": {
     "@types/react": "^16.9.17",
     "@types/react-native": "^0.60.25",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "nzh": "^1.0.4",
     "react": "^16.12.0",
